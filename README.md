@@ -8,7 +8,6 @@ https://engineering.betterworks.com/2015/09/03/sqlalchemy-and-django/
 https://www.fullstackpython.com/sqlalchemy.html
 
 Bootstrap4:
-Build responsive, mobile-first projects on the web with the world’s most popular front-end component library.
 
 https://getbootstrap.com/docs/4.3/getting-started/introduction/
 
