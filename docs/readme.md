@@ -47,7 +47,9 @@ Part 1 is a set of tools that make working with data and databases much easier P
 
 The following diagram illustrates how each of the components of the MVT pattern interacts with each other to serve a user request .
 The developer provides the Model, the view and the template then just maps it to a URL and Django does the magic to serve it to the user.
+
 [MVC-Django](https://overiq.com/django-1-10/mvc-pattern-and-django/)
+
 [MVT](https://www.tutorialspoint.com/django/django_overview.htm)
 
 
