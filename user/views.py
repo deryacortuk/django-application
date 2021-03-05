@@ -14,7 +14,7 @@ def register(request):
         newUser.set_password(password)
         newUser.save()
         login(request,newUser)
-        messages.info(request,"your registration was complete")
+        messages.info(request,"your registration was completed")
         return redirect("index")
     context ={
         "form":form
