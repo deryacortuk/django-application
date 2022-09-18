@@ -1,6 +1,6 @@
 from django import forms
 class RegisterForm(forms.Form):
-    username =forms.CharField(max_length=50,label="user name")
+    username =forms.CharField(max_length=50,label="username")
     password =forms.CharField(max_length=20,label="password",widget=forms.PasswordInput)
     confirm=forms.CharField(max_length=20,label="confirm",widget=forms.PasswordInput)
     def clean(self):
